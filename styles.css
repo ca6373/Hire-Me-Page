@@ -1,0 +1,46 @@
+body {
+    background-color: green;
+}
+h1 { 
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+p {
+    color: yellow;
+     font-size: 20px;
+}
+h2 {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+ol {
+    color: yellow;
+}
+
+h3 { 
+    color: white;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+h4 { 
+    color: white;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+h5 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+h6 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+ol {
+     font-size: 20px;
+}
+img {
+    width: 200px;
+}
